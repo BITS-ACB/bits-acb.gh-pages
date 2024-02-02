@@ -1,0 +1,16 @@
+site_name: BITS ACB
+site_url: https://bits-acb.github.io
+repo_url: https://github.com/bits-acb
+repo_name: bits-acb github organization 
+site_description: public facing information for bits-acb courses 
+site_author: BITS Admins 
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Courses: 
+    - Courses List: courses/index.md 
+    - Introduction to Programming and Python: courses/intro_python_course.md
+
+theme:
+  name: material
