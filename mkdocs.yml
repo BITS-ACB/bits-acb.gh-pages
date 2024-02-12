@@ -8,9 +8,16 @@ site_author: BITS Admins
 nav:
   - Home: index.md
   - About: about.md
+  - Resources:
+    - List of Resources: resources/index.md
+    - Using the Command Line: resources/using_cli.md
+    - Using Git: resources/using_git.md
+    - Using Visual Studio Code (VSCode): resources/using_vscode.md 
   - Courses: 
     - Courses List: courses/index.md 
     - Introduction to Programming and Python: courses/intro_python_course.md
 
 theme:
   name: material
+  features:
+    - content.code.copy
