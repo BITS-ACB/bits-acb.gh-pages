@@ -85,7 +85,7 @@ Your changes will be reflected automatically in the browser.
 1. Commit and push your changes in ``` bits-acb.gh-pages ``` to the main branch on github.
 1. In the root directory of the ``` bits-acb.github.io ``` repo, run the following command:
 ``` bash 
-mkdocs gh-deploy --config-file ../bits-acb.gh-pages/mkdocs.yml  -- remote-branch main 
+mkdocs gh-deploy --config-file ../bits-acb.gh-pages/mkdocs.yml  --remote-branch main 
 ```
 
 If all went well, you should see your changes at:
