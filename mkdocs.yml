@@ -12,6 +12,7 @@ nav:
     - List of Resources: resources/index.md
     - Using the Command Line: resources/using_cli.md
     - Using Git: resources/using_git.md
+    - Using groups.io and Email Etiquette: resources/using_groups.io.md
     - Using Visual Studio Code (VSCode): resources/using_vscode.md 
   - Courses: 
     - Courses List: courses/index.md 

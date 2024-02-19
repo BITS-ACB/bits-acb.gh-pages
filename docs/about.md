@@ -27,7 +27,7 @@ The documentation repo structure will make more sense if you read that article (
 
 ### Where is the the Documentation
 
-There are two repos you'll need to clone if you want to work with the docs:
+There are two repos you'll need to clone if you want to work with the docs (these are URLs for using SSH):
 ``` bash
 git@github.com:BITS-ACB/bits-acb.gh-pages.git
 ```
